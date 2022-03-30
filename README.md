@@ -1,36 +1,48 @@
-# Welcome to P1 Intellijs' College Application Service
+<h1 align="center">Oasis Systems</h1>
+<p align="center">
+  <b>Kevin Do, Tanmay Marwah, Kyle Myint, and Charlie Zhu</b> <br>
+  <sub>Tri 3 CSA Repo for m22p2-btbw</sub>
+</p>
+
+![image](https://user-images.githubusercontent.com/72889453/158108834-e7e0cfa4-f508-4841-818b-8ccb849a2c72.png)
+
+## Project Description + Ideas
+- Login Pages
+- Authenticated Pages (only certain people can access)
+- Roles (different access hierarchy)
+- Database with users
+- API (is this how other people can use our database?)
+
+## Wires
+![Landing](https://user-images.githubusercontent.com/54718041/159974329-dceb59ac-0888-406e-881f-1c6ea6a27f7d.png)
+![Login](https://user-images.githubusercontent.com/54718041/159974367-93e38440-ac1f-4108-8366-c0f98a11c57b.png)
+![Sign Up](https://user-images.githubusercontent.com/54718041/159974384-45388baf-64eb-413d-a8c8-57435018b710.png)
+![Admin Panel](https://user-images.githubusercontent.com/54718041/159974398-fc48f69a-b0f6-4990-9922-b80f62586cca.png)
 
 
-## Scrum Team Members and Contributions
-m221p1-youre-mom   | [Scrum Board](https://github.com/yajatyadav/intellijs/projects/1) | [Repo Contributors](https://github.com/yajatyadav/intellijs/graphs/contributors) | ------ | ------ | ------ | ------ |
------- | ------ | ------ | ------ | ------ | ------ | ------ |
-Name            | GitHub ID | Tasks | Scrum Board | Commits | Profile | Repl.it (FRQs) |
-Kyle Myint | kylem314 | [Issues](https://github.com/yajatyadav/intellijs/labels/Kyle%20Myint) | [Scrum Board](https://github.com/yajatyadav/intellijs/projects/1?card_filter_query=assignee%3Akylem314) | [Commit Page](https://github.com/yajatyadav/intellijs/commits?author=kylem314)| [Profile](https://github.com/kylem314) | [Repl](https://replit.com/@KyleMyint/CSA-FRQs#Main.java)
-Charlie Zhu | 1855387 | [Issues](https://github.com/yajatyadav/intellijs/labels/Charlie%20Zhu) | [Scrum Board](https://github.com/yajatyadav/intellijs/projects/1?card_filter_query=assignee%3A1855387) | [Commit Page](https://github.com/yajatyadav/intellijs/commits?author=1855387) | [Profile](https://github.com/1855387) | [Add Repl]() |
-Yajat Yadav | yajatyadav | [Issues](https://github.com/yajatyadav/intellijs/labels/Yajat%20Yadav) | [Scrum Board](https://github.com/yajatyadav/intellijs/projects/1?card_filter_query=assignee%3Ayajatyadav) | [Commit Page](https://github.com/yajatyadav/intellijs/commits?author=yajatyadav) | [Profile](https://github.com/yajatyadav) | [Add Repl]() |
-Eric Wang | elw55555 | [Issues](https://github.com/yajatyadav/intellijs/labels/Eric%20Wang) | [Scrum Board](https://github.com/yajatyadav/intellijs/projects/1?card_filter_query=assignee%3Aelw55555) | [Commit Page](https://github.com/yajatyadav/intellijs/commits?author=elw55555) | [Profile](https://github.com/elw55555) | [Add Repl]() |
-Ak Prathipati | akprathipati | [Issues](https://github.com/yajatyadav/intellijs/labels/Akshit%20Prathipati) | [Scrum Board](https://github.com/yajatyadav/intellijs/projects/1?card_filter_query=assignee%3Aakprathipati) | [Commit Page](https://github.com/yajatyadav/intellijs/commits?author=akprathipati) | [Profile](https://github.com/akprathipati) | [Add Repl]() |
-Rohan Nallapati | macddmac | [Issues](https://github.com/yajatyadav/intellijs/issues/assigned/macddmac) | [Scrum Board](https://github.com/yajatyadav/intellijs/projects/1?card_filter_query=assignee%3Amacddmac) | [Commmits](https://github.com/yajatyadav/intellijs/commits?author=macddmac) | [Profile](https://github.com/macddmac) | [FRQs](https://replit.com/@rohannallap/TRI-2-FRQs-1) |
+## UML Diagram
+![image](https://user-images.githubusercontent.com/54718041/158848785-d75a3c9b-c61a-4e03-9a2e-5b3533bc3e7d.png)
 
-## Wiki
-Our wiki offers in-depth documentation for various aspects of our project
-##### [Deployment](https://github.com/yajatyadav/intellijs/wiki/Deployment)
-##### [Contributing Guidelines](https://github.com/yajatyadav/intellijs/wiki/Contributing-Guidelines)
-##### [Project Theme + Technicals](https://github.com/yajatyadav/intellijs/wiki/Project-Theme---Technicals)
 
-### Intellijs Jekyll Site
-[Link to site](https://kylem314.github.io/)
+## Success Ideas
+- The aim is to create a successful site that can teach students how to achieve verification within their projects and login systems.
+- We'll also aim to have a working login and verification system on our own site
 
-### Week 3 (12/13-12/17) About pages + Unit 3 FRQ
-[Review ticket](https://github.com/yajatyadav/intellijs/issues/10)
-Name | Link to code | Link to page |
------ | ----- | ------ |
-Kyle Myint | [Link](https://github.com/yajatyadav/intellijs/blob/main/src/main/resources/templates/kyleabout) | [Link](http://intellijs.cf/kyleabout) |
-Charlie Zhu | [Link](https://github.com/yajatyadav/intellijs/blob/main/src/main/resources/templates/charlieabout.html) | [Link](http://intellijs.cf/charlieabout) |
-Yajat Yadav | [Link](https://github.com/yajatyadav/intellijs/blob/main/src/main/resources/templates/yajat_about.html) | [Link](http://intellijs.cf/yajat_about) |
-Eric Wang | [Link](https://github.com/yajatyadav/intellijs/blob/main/src/main/resources/templates/ericabout.html) | [Link](http://intellijs.cf/ericabout) |
-Ak Prathipati | [Link](https://github.com/yajatyadav/intellijs/commit/7b31523e7ee1fa9ae5863a146fcd0e0dbc52a04d) | [Link](http://intellijs.cf/akabout) |
+## Team Roles
 
-Test- database branch
-### Week 4 (1/3 - 1/7)
+### Project Owner: Mr. M
+> commisions or sponsors our project
+
+### Scrum Master: Kyle Myint
+> overlooks team's tasks
+
+### Deployment Manager: Kevin Do
+> controls the deployment of the project
+
+### Web Designer: Tanmay Marwah
+> creates the frontend ux/ui
+
+### Technical Officer: Charlie Zhu
+> manages backend operations
+
 
