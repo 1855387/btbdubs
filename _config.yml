@@ -1,0 +1,22 @@
+theme: jekyll-theme-hacker
+title: BTBW
+description: Website for CSA m22p2-btbw
+email: "kylem31415@gmail.com"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+markdown: redcarpet
+include:
+  - index
+  - diagrams
+  - links
+  - about
+  - deployment
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - fenced_code_blocks
+    - autolink
+    - tables
+    - strikethrough
+    - superscript
+    - with_to_data
