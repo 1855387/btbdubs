@@ -19,7 +19,16 @@
 - Permissions attached to accounts, allowing access to different actions and pages
 - Explanation of how to create a permission system to aid others in creating similar systems
 
-### Tangibles
-- Login system with database
+### Objectives before N@TM
+- Complete login system with database
+  - Accessible by others for their projects
+  - Complete ASAP
 - Guide to creating authentication system
+  - Allows others to create their own systems
 - Multiple pages, with premissions integrated
+  - Demonstrates our work with security
+  - Page to update users with roles
+
+### Objectives and Requirements
+
+If we're able to complete all of the listed objectives, then in addition to a live presentation (Tuesday), we'll have fulfilled all of the requirements of our sponsor. The login system & database will connect to our authentication/security system, and then we'll be able to teach others how to create their own systems through the live presentation and instruction on the site. 
