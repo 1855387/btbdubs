@@ -1,7 +1,5 @@
 package com.nighthawk.intellijs.controllers.database;
 
-package com.example.accessingdatarest;
-
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestParam;
 
