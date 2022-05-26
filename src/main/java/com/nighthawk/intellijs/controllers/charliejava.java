@@ -24,6 +24,6 @@ class charliejava {
     public String charlie_about(@RequestParam(name="name", required=false, defaultValue="World") String name, Model model) {
         // @RequestParam handles required and default values, name and model are class variables, model looking like JSON
         model.addAttribute("name", name); // MODEL is passed to html
-        return "charlieabout"; // returns HTML VIEW (greeting)
+        return "fetch"; // returns HTML VIEW (greeting)
     }
 }
