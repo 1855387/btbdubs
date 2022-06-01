@@ -1,7 +1,7 @@
 //package com.nighthawk.intellijs.controllers.database;
 //
-//import org.springframework.http.ResponseEntity;
-//import org.springframework.web.bind.annotation.RequestParam;
+////import org.springframework.http.ResponseEntity;
+////import org.springframework.web.bind.annotation.RequestParam;
 //
 //import javax.persistence.Entity;
 //import javax.persistence.GeneratedValue;
@@ -12,7 +12,7 @@
 //public class Person {
 //
 //    @Id
-//    @GeneratedValue(strategy = GenerationType.AUTO)
+//    @GeneratedValue(strategy = GenerationType.AUTO)'
 //    private long id;
 //
 //    private String email;
